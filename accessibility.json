@@ -1,0 +1,31 @@
+{
+  "accessibility": {
+    "compliance": "WCAG 2.1",
+    "textAlternatives": {
+      "images": "Utilisation d'IA pour générer des balises alt initiales, suivies d'une révision manuelle.",
+      "videos": "Transcriptions complètes et descriptions audio engageantes pour toutes les vidéos."
+    },
+    "timeBasedMedia": {
+      "subtitles": "Sous-titres clairs et synchronisés, options de personnalisation par l'utilisateur.",
+      "audioDescriptions": "Descriptions audio détaillées avec réglage de volume indépendant."
+    },
+    "adaptableContent": "Tests sur divers appareils et logiciels de lecture d'écran pour garantir la compatibilité.",
+    "distinguishableContent": {
+      "colorContrast": "Rapports de contraste élevés, mode 'haute visibilité' avec ajustements de couleur.",
+      "textResize": "Taille de texte responsive adaptable aux préférences de l'utilisateur.",
+      "avoidFlashing": "Design éliminant les éléments clignotants ou en mouvement rapide."
+    },
+    "testScripts": {
+      "automatedTesting": "Outils comme Axe et Wave pour des vérifications d'accessibilité automatisées.",
+      "manualTesting": "Audits réguliers par des consultants spécialisés en accessibilité."
+    },
+    "teamTraining": {
+      "workshops": "Ateliers interactifs sur les normes WCAG et certification interne.",
+      "expertCollaboration": "Sessions de révision régulières avec des experts en accessibilité."
+    },
+    "userFeedback": {
+      "surveys": "Enquêtes régulières ciblant divers groupes de handicap pour des retours ciblés.",
+      "feedbackIntegration": "Intégration structurée des retours utilisateurs dans les cycles de développement."
+    }
+  }
+}
